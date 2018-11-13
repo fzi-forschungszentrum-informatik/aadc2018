@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	
+<roadSign id="1" x="1.356" y="9.135" radius="1.0" direction="180"/> 
+<roadSign id="1" x="1.356" y="6.135" radius="1.0" direction="180"/> 
+<roadSign id="1" x="2.644" y="4.865" radius="1.0" direction="0"/> 
+<roadSign id="1" x="4.356" y="13.135" radius="1.0" direction="180"/> 
+<roadSign id="1" x="2.644" y="11.865" radius="1.0" direction="0"/> 
+<roadSign id="1" x="2.644" y="7.865" radius="1.0" direction="0"/> 
+
+<roadSign id="1" x="4.356" y="6.135" radius="1.0" direction="180"/> 
+<roadSign id="1" x="5.644" y="7.865" radius="1.0" direction="0"/> 
+<roadSign id="1" x="7.135" y="14.644" radius="1.0" direction="90"/> 
+<roadSign id="1" x="10.135" y="14.644" radius="1.0" direction="90"/> 
+<roadSign id="1" x="10.135" y="14.644" radius="1.0" direction="90"/> 
+<roadSign id="1" x="5.865" y="16.356" radius="1.0" direction="-90"/> 
+<roadSign id="1" x="4.356" y="9.135" radius="1.0" direction="180"/> 
+<roadSign id="1" x="5.644" y="11.865" radius="1.0" direction="0"/> 
+
+<roadSign id="2" x="13.865" y="12.356" radius="1.0" direction="-90"/>
+<roadSign id="2" x="7.135" y="17.644" radius="1.0" direction="90"/> 
+
+<roadSign id="3" x="-0.135" y="6.356" radius="1.0" direction="-90"/> 
+<roadSign id="3" x="-0.135" y="9.356" radius="1.0" direction="-90"/> 
+<roadSign id="3" x="1.135" y="7.644" radius="1.0" direction="90"/> 
+<roadSign id="3" x="1.135" y="4.644" radius="1.0" direction="90"/> 
+<roadSign id="3" x="2.865" y="9.356" radius="1.0" direction="-90"/> 
+<roadSign id="3" x="2.865" y="6.356" radius="1.0" direction="-90"/> 
+<roadSign id="3" x="2.865" y="13.356" radius="1.0" direction="-90"/> 
+<roadSign id="3" x="4.135" y="4.644" radius="1.0" direction="90"/> 
+<roadSign id="3" x="5.865" y="9.356" radius="1.0" direction="-90"/> 
+<roadSign id="3" x="7.356" y="16.135" radius="1.0" direction="180"/> 
+<roadSign id="3" x="10.356" y="16.135" radius="1.0" direction="180"/> 
+<roadSign id="3" x="8.644" y="14.865" radius="1.0" direction="0"/> 
+<roadSign id="3" x="7.135" y="7.644" radius="1.0" direction="90"/> 
+<roadSign id="3" x="5.644" y="14.865" radius="1.0" direction="0"/> 
+<roadSign id="3" x="5.865" y="13.356" radius="1.0" direction="-90"/> 
+<roadSign id="3" x="4.135" y="7.644" radius="1.0" direction="90"/> 
+<roadSign id="3" x="4.135" y="11.644" radius="1.0" direction="90"/>
+
+<roadSign id="6" x="2.644" y="-0.135" radius="1.0" direction="0"/> 
+<roadSign id="6" x="4.356" y="1.135" radius="1.0" direction="180"/> 
+<roadSign id="6" x="2.865" y="11.356" radius="1.0" direction="-90"/> 
+<roadSign id="6" x="4.135" y="9.644" radius="1.0" direction="90"/> 
+
+<!-- autonomous driving; all double sided if possible -->
+<roadSign id="10" x="7.356" y="-0.135" radius="1.0" direction="0"/> 
+<roadSign id="10" x="8.644" y="1.135" radius="1.0" direction="180"/> 
+<roadSign id="10" x="-0.135" y="1.356" radius="1.0" direction="-90"/>
+<roadSign id="10" x="12.644" y="1.865" radius="1.0" direction="0"/> 
+<roadSign id="10" x="13.865" y="4.356" radius="1.0" direction="-90"/> 
+<roadSign id="10" x="13.865" y="8.644" radius="1.0" direction="-90"/> 
+<roadSign id="10" x="15.135" y="6.356" radius="1.0" direction="90"/>
+<roadSign id="10" x="15.135" y="10.356" radius="1.0" direction="90"/>
+<roadSign id="10" x="15.135" y="14.356" radius="1.0" direction="90"/>
+<roadSign id="10" x="12.865" y="6.356" radius="1.0" direction="-90"/>
+<roadSign id="10" x="12.865" y="6.356" radius="1.0" direction="-90"/>
+<roadSign id="10" x="12.664" y="3.865" radius="1.0" direction="180"/> 
+<roadSign id="10" x="9.356" y="5.135" radius="1.0" direction="180"/> 
+<roadSign id="10" x="9.135" y="11.356" radius="1.0" direction="-90"/>
+<roadSign id="10" x="12.135" y="11.356" radius="1.0" direction="90"/>
+<roadSign id="10" x="11.135" y="8.356" radius="1.0" direction="-90"/>
+<roadSign id="10" x="11.135" y="8.356" radius="1.0" direction="-90"/>
+<roadSign id="10" x="6.356" y="2.135" radius="1.0" direction="-90"/>
+<roadSign id="10" x="7.135" y="12.356" radius="1.0" direction="90"/>
+<roadSign id="10" x="0.644" y="13.135" radius="1.0" direction="180"/>
+<roadSign id="10" x="6.644" y="5.135" radius="1.0" direction="0"/>
+
+<!-- init signs; change ids -->
+<roadSign id="22" x="5.644" y="19.0" radius="1.0" direction="180" init="1"/> 
+<roadSign id="23" x="3.644" y="16.135" radius="1.0" direction="180" init="1"/>
+<roadSign id="24" x="1.135" y="6.356" radius="1.0" direction="-90" init="1"/> 
+<roadSign id="25" x="2.865" y="3.356" radius="1.0" direction="-90" init="1"/>
+<roadSign id="26" x="11.644" y="14.865" radius="1.0" direction="0" init="1"/>
+<roadSign id="27" x="4.356" y="6.135" radius="1.0" direction="0" init="1"/> <!-- backside of stop sign--> 
+
+<!-- parking -->
+<parkingSpace id="1" x="7.0" y="19.75" status="1" direction="180" />
+<parkingSpace id="2" x="7.0" y="19.25" status="0" direction="180" />
+<parkingSpace id="3" x="7.0" y="18.75" status="1" direction="180" />
+<parkingSpace id="4" x="7.0" y="18.25" status="0" direction="180" />
+
+<parkingSpace id="8" x="14.0" y="11.75" status="1" direction="0" />
+<parkingSpace id="7" x="14.0" y="11.25" status="0" direction="0" />
+<parkingSpace id="6" x="14.0" y="10.75" status="1" direction="0" />
+<parkingSpace id="5" x="14.0" y="10.25" status="0" direction="0" />
+
+
+</configuration>

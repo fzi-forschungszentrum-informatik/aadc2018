@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<configuration>		
+  <roadSign direction="90" id="1" name="Schild_Stop" radius="1.0" x="-3.108" y="-4.100"/>
+  <roadSign direction="180" id="3" name="Schild_Vorfahrt" radius="1.0" x="-1.700" y="-5.800" init="1" />
+  <roadSign direction="0" id="5" name="Schild_VorfahrtAchten" radius="1.0" x="0.700" y="-3.200"/>
+  <roadSign direction="270" id="3" name="Schild_Vorfahrt_0" radius="1.0" x="2.093" y="-4.900"/>
+</configuration>

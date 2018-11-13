@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<session xmlns="adtf/xsd/session">
+  <file_version>
+    <major>1</major>
+    <minor>0</minor>
+  </file_version>
+  <name>default_session_linux</name>
+  <adtfsystem>
+    <url>./adtfsystems/default_system_linux.adtfgraph</url>
+    <properties_url>./adtfsystems/default_system_linux.adtfproperties</properties_url>
+    <property_set/>
+    <name>default_system_linux</name>
+  </adtfsystem>
+  <adtfgraph>
+    <url>./adtfgraphs/default_graph.adtfgraph</url>
+    <properties_url>./adtfgraphs/default_graph.adtfproperties</properties_url>
+    <property_set/>
+    <name>default_graph</name>
+  </adtfgraph>
+  <active_streaming_graph>default_streaming_graph</active_streaming_graph>
+  <active_filter_graph>default_filter_graph</active_filter_graph>
+</session>
